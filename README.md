@@ -14,6 +14,6 @@ We aimed to address the following primary objectives:
 3. Develop a customer segmentation scheme including the identification of sleeping customers (those that are no longer active but have not cancelled their account).
 
 
-## Indiivdual Contribution to the Project
+## Individual Contribution to the Project
 
 The part of the analysis that I was in charge of was developing the attrition model and conducting some overall summary statistics for the dataset.
