@@ -1,7 +1,8 @@
 # Customer Attrition and Lifetime Value (LTV) Modeling
 
 Project Description:
-Our "client" is an online greeting card company that charges a subscription fee of $1 per month for unlimited access to their eCard website. The purpose of this report is to advise this client on various aspects of their customer base, including the life-time value (LTV) of their customers.
+
+Our "client" was an online greeting card company that charges a subscription fee of $1 per month for unlimited access to their eCard website. The purpose of this report is to advise this client on various aspects of their customer base, including the life-time value (LTV) of their customers.
 
 The LTV of a customer is the total revenue earned by the company from that customer. In the context of this card company, the LTV of a customer is $1 (the monthly subscription fee) times the number of months subscribed.
 
